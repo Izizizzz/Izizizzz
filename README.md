@@ -7,6 +7,10 @@
 
 ---
 
+## Faiz is love burning free tokens on sandboxes, watch out for AI SLOP here :]]
+
+---
+
 ### 🛠️ Technical Arsenal
 | Domain | Stack & Tools |
 |:---|:---|
