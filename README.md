@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Faiz 
+# 👋 Hi, I'm Faiz (`yiraxa`)
 **Computer Engineering Technology Student | Embedded & AI Researcher | Hardware Tinkerer**
 
 🔍 **Core Philosophy:** *"Ngulik"* — I dive under the hood. I don't just make things run; I validate *how* and *why* they work, from silicon timing to software architecture.
 
 🎓 **8th Semester @ IPB University** | Focused on Undergraduate Thesis & Edge-AI/IoT Integration  
+🐧 **Primary OS:** Linux (Ubuntu/Debian) | `yiraxa` @ `/home/faiz034`
 
 ---
 
